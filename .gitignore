@@ -1,2 +1,19 @@
 data/processed/
 data/raw/
+.venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Generated output
+results/
+reports/
+visualizations/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
